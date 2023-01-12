@@ -14,4 +14,4 @@ The chatbot is a v2 of [ChatMGPT4](https://khaledtolba.github.io/ChatMGPT4/).
 ### - New interface and friendly design
 
 
-[Try it now](https://khaledtolba.github.io/ChatMGPT4-V2/).
+[Try it](https://khaledtolba.github.io/ChatMGPT4-V2/).
