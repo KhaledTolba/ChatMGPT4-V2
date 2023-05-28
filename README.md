@@ -1,6 +1,6 @@
 # ChatMGPT4V2
 
-The chatbot is a v2 of [ChatMGPT4](https://khaledtolba.github.io/ChatMGPT4/).
+The chatbot is a v2 of [ChatMGPT4](https://github.com/KhaledTolba/ChatMGPT4).
 
 ## features in this version:
 
